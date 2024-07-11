@@ -1,3 +1,8 @@
+package mergeSortedArray;
+
+import java.util.ArrayList;
+import java.util.stream.Collectors;
+
 /**
  * Created with IntelliJ IDEA.
  *
@@ -6,5 +11,8 @@
  * @Description:
  */
 public class mergeSortedArray {
-    
+    // TODO:
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+
+    }
 }
