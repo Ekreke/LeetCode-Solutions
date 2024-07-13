@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7522c2e-85ac-4f4d-b233-46226a8521eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/addTwoNumbers/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addTwoNumbers/addTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mergeSortedArray/mergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twoSum/twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mergeSortedArray/mergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/mergeSortedArray/mergeSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -49,7 +47,20 @@
     <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.mergeSortedArray">
+    <configuration name="mergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergeSortedArray.mergeSortedArray" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mergeSortedArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twoSum.twoSum" />
       <module name="java" />
@@ -63,19 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeSortedArray" />
         <item itemvalue="Application.twoSum" />
       </list>
     </recent_temporary>
@@ -89,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720583820437</updated>
       <workItem from="1720583823018" duration="11382000" />
+      <workItem from="1720708692054" duration="5981000" />
     </task>
     <servers />
   </component>
@@ -105,5 +120,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
